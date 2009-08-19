@@ -6,6 +6,8 @@
     Tested on Windows XP (so far)
     
     Usage: main.py COM5
+    
+    Requires: pyserial
 """
 import serial
 import sys
