@@ -1,2 +1,2 @@
 @echo off
-c:\python26\python.exe main.py COM5
+c:\python26\python.exe google_calculator.py COM5

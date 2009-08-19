@@ -7,7 +7,9 @@
 
     Usage: "main.py COM5"
 
-    Requires: pyserial
+    Requires: 
+        pyserial - http://pyserial.sourceforge.net/
+        google api - http://github.com/thisismyrobot/Google-API/
 """
 
 import serial
